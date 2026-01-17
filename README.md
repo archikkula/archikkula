@@ -6,7 +6,7 @@ Full-stack + AI engineering — building clean systems, useful products, and dat
 ---
 
 ## About
-I’m a Computer Science student at **UT Austin** focused on **full-stack engineering** and **AI applications**. I like building full-stack products powered by AI/ML — from backend systems to polished UI.
+I’m a Computer Science student at **UT Austin** focused on **full-stack engineering** and **AI applications**. I enjoy building full-stack products powered by AI/ML — from backend systems to polished UI.
 
 When I'm not coding, you'll find me watching formula 1, playing tennis, or baking one of Ina Garten's recipes!
 
