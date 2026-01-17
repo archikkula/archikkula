@@ -1,18 +1,7 @@
-<h1 align="center">👋 Hi, I'm Akhila Chikkula</h1>
+# 👋 Hi, I'm Akhila Chikkula
 
-<p align="center">
-  CS @ UT Austin (May 2027)/>
-  Full-stack + AI engineering — building clean systems, useful products, and data-driven tools.
-</p>
-
-<p align="center">
-  <a href="mailto:Akhila.Chikkula@utexas.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/AkhilaChikkula">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+CS @ UT Austin (May 2027)  
+Full-stack + AI engineering — building clean systems, useful products, and data-driven tools.
 
 ---
 
@@ -23,7 +12,7 @@ Outside of coding: Formula 1, tennis/golf, violin, baking, crocheting, and the N
 
 ---
 
-## 🧰 Technologies I’m fluent in
+## 🛠️ Technologies I’m fluent in
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,5 +52,5 @@ Outside of coding: Formula 1, tennis/golf, violin, baking, crocheting, and the N
 ---
 
 ## 🤝 Let’s Connect
-- 📫 **Akhila.Chikkula@utexas.edu**
-- 💼 **linkedin.com/in/AkhilaChikkula**
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akhila.Chikkula@utexas.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AkhilaChikkula)
