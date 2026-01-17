@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Akhila Chikkula</h1>
 
 <p align="center">
-  CS @ UT Austin (May 2027) • GPA 3.78<br/>
+  CS @ UT Austin (May 2027)/>
   Full-stack + AI engineering — building clean systems, useful products, and data-driven tools.
 </p>
 
