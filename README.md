@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Akhila Chikkula
+# Hi! I'm Akhila Chikkula
 
-CS @ UT Austin (May 2027)  
+CS @ UT Austin | May 2027  
 Full-stack + AI engineering — building clean systems, useful products, and data-driven tools.
 
 ---
 
-## 🧠 About
-I’m a Computer Science student at **UT Austin** focused on **full-stack engineering** and **AI applications** — I like building products that combine strong backend systems with clean UX.
+## About
+I’m a Computer Science student at **UT Austin** focused on **full-stack engineering** and **AI applications**. I like building full-stack products powered by AI/ML — from backend systems to polished UI.
 
-Outside of coding: Formula 1, tennis/golf, violin, baking, crocheting, and the NYT Mini Crossword.
+When I'm not coding, you'll find me watching formula 1, playing tennis, or baking one of Ina Garten's recipes!
 
 ---
 
-## 🛠️ Technologies I’m fluent in
+## Tech
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,12 +45,12 @@ Outside of coding: Formula 1, tennis/golf, violin, baking, crocheting, and the N
 
 ---
 
-## 🚀 Projects (TL;DR)
+## Projects 
 - 🏎️ **[Formula 1nsights](https://github.com/archikkula/formula1nsights)** — F1 analytics platform with **XGBoost-powered race predictions** and **live news aggregation**.
 - 💸 **[XpenseAI](https://github.com/archikkula/xpenseai)** — AI expense tracker with **OCR receipt scanning**, **auto categorization**, and **persistent storage via Spring Boot + Hibernate (PostgreSQL)**.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akhila.Chikkula@utexas.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AkhilaChikkula)
