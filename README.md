@@ -46,8 +46,8 @@ When I'm not coding, you'll find me watching formula 1, playing tennis, or bakin
 ---
 
 ## Projects 
-- 🏎️ **[Formula 1nsights](https://github.com/archikkula/formula1nsights)** — F1 analytics platform with **XGBoost-powered race predictions** and **live news aggregation**.
-- 💸 **[XpenseAI](https://github.com/archikkula/xpenseai)** — AI expense tracker with **OCR receipt scanning**, **auto categorization**, and **persistent storage via Spring Boot + Hibernate (PostgreSQL)**.
+- **[Formula 1nsights](https://github.com/archikkula/formula1nsights)** — F1 analytics platform with **XGBoost-powered race predictions** and **live news aggregation**.
+- **[XpenseAI](https://github.com/archikkula/xpenseai)** — AI expense tracker with **OCR receipt scanning**, **auto categorization**, and **persistent storage via Spring Boot + Hibernate (PostgreSQL)**.
 
 ---
 
