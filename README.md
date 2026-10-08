@@ -1,6 +1,6 @@
 # Hi! I'm Akhila Chikkula
 
-CS @ UT Austin | May 2027  
+CS @ UT Austin | May 2028  
 Full-stack + AI engineering — building clean systems, useful products, and data-driven tools.
 
 ---
